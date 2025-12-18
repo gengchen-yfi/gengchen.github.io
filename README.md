@@ -1,4 +1,3 @@
-# gengchen.github.io
 # Geng Chen
 
 Researcher in Aquatic Genetics and Genomics  
