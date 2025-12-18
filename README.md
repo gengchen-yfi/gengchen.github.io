@@ -51,4 +51,4 @@ Chen G, et al. ITGB1b-deficient rare minnows delay grass carp reovirus entry and
 
 - Email: chengeng@yfi.ac.cn  
 - [ORCID](https://orcid.org/0000-0003-3619-3951)
-- [Google Scholar](https://scholar.google.com/citations?user=5714KZcAAAAJ&hl)
+- [Google Scholar](https://scholar.google.com/citations?user=5714KZcAAAAJ)
